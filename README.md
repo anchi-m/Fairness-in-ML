@@ -1,3 +1,2 @@
 # Fairness-in-ML
-Fair classification
-Gumbel Softmax
+Fair classification via Gumbel Softmax
